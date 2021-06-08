@@ -1,0 +1,7 @@
+name = "GiftExchangeRandomizer"
+uuid = "cf4cfb94-92ec-4ec8-9de2-c1a6f2215adc"
+authors = ["rosston <ross.brandes@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
